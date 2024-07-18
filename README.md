@@ -66,9 +66,12 @@ Para visualizar os artefatos de cada disciplina e entrega:
       <img src="https://avatars.githubusercontent.com/u/132145525?v=4" width="100px;" alt="Mateus Nepomuceno"/><br />
       <b>Mateus Nepomuceno</b><br />
    </td>
+  <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/175978918?v=4" width="100px;" alt="Tiago Chacon"/><br />
+      <b>Tiago Chacon</b><br />
+   </td>
   </tr>
 </table>
-
 ---
 
 &copy; 2024 Universidade Federal de Pernambuco - Centro de Informática. Todos os direitos reservados.
