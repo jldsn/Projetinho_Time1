@@ -47,12 +47,10 @@ Para visualizar os artefatos de cada disciplina e entrega:
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/131917694?v=4" width="100px;" alt="Aldo Lemos"/><br />
       <b>Aldo Lemos</b><br />
-      Descrição ou função
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/104479818?v=4" width="100px;" alt="José Luiz"/><br />
       <b>José Luiz</b><br />
-      Descrição ou função
     </td>
   </tr>
 </table>
