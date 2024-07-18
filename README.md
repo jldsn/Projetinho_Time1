@@ -52,6 +52,10 @@ Para visualizar os artefatos de cada disciplina e entrega:
       <img src="https://avatars.githubusercontent.com/u/104479818?v=4" width="100px;" alt="José Luiz"/><br />
       <b>José Luiz</b><br />
     </td>
+     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/83255127?v=4 " width="100px;" alt="Mariana Marinho"/><br />
+      <b>Aldo Lemos</b><br />
+    </td>
   </tr>
 </table>
 
