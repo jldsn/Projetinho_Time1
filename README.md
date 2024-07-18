@@ -53,9 +53,19 @@ Para visualizar os artefatos de cada disciplina e entrega:
       <b>José Luiz</b><br />
     </td>
      <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/131922658?v=4 " width="100px;" alt="João Hibernon"/><br />
+      <b>João Hibernon</b><br />
+    </td>
+    </td>
+     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/83255127?v=4 " width="100px;" alt="Mariana Marinho"/><br />
       <b>Mariana Marinho</b><br />
-    </td>
+   </td>
+  </td>
+     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/132145525?v=4" width="100px;" alt="Mateus Nepomuceno"/><br />
+      <b>Mateus Nepomuceno</b><br />
+   </td>
   </tr>
 </table>
 
