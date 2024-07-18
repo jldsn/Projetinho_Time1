@@ -54,7 +54,7 @@ Para visualizar os artefatos de cada disciplina e entrega:
     </td>
      <td align="center">
       <img src="https://avatars.githubusercontent.com/u/83255127?v=4 " width="100px;" alt="Mariana Marinho"/><br />
-      <b>Aldo Lemos</b><br />
+      <b>Mariana Marinho</b><br />
     </td>
   </tr>
 </table>
